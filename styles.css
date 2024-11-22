@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(file:///C:/Users/ALEDU%20INIOLUWA%20EBEN/Documents/WORK/coding/wemapay/images/Screenshot_21-11-2024_194325.jpeg);
+    background-image: url("images/Screenshot_21-11-2024_194325.jpeg");
     background-size: cover; /*Ensures the image covers the entire area */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents tiling of the image */
